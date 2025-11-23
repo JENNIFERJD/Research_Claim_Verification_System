@@ -1,13 +1,5 @@
 streamlit
-pandas
-numpy
-requests
-openai
-langchain-core
-langchain-google-genai
-langchain-groq
-langchain-openai
-sentence-transformers
-torch
-torchvision
-transformers
+   pandas
+   certifi
+   azure-ai-documentintelligence
+   azure-core
